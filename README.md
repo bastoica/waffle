@@ -337,6 +337,6 @@ This command, too, generates a `TestResults.wfl` file that captures crash inform
 
 ## References
 
-[1] "WAFFLE: Exposing Memory Ordering Bugs Efficiently with Active Delay Injection". Bogdan Alexandru Stoica, Shan Lu, Madan Musuvathi, and Suman Nath. | <a href="https://bastoica.github.io/files/papers/2023_eurosys_waffle.pdf" target="_blank">[pdf]</a>
+[1] "WAFFLE: Exposing Memory Ordering Bugs Efficiently with Active Delay Injection". Bogdan Alexandru Stoica, Shan Lu, Madan Musuvathi, and Suman Nath. EuroSys 2023 | <a href="https://bastoica.github.io/files/papers/2023_eurosys_waffle.pdf" target="_blank">[pdf]</a>
 
 [2] "Efficient and Scalable Thread-Safety Violation Detection --- Finding thousands of concurrency bugs during testing". Guangpu Li, Shan Lu, Madan Musuvathi, Suman Nath, and Rohan Padhye. SOSP 2019
