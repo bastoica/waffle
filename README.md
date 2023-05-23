@@ -2,7 +2,7 @@
 
 WAFFLE is an active delay injection tool for .NET platforms that aims to find memory ordering bugs - or MemOrder bugs, for short - such as use-after-free and use-before-init faults. 
 
-This repository contains source code, benchmarks and scripts to build and reproduce the key findings of our EuroSys'23 paper [1]. It also serves as a roadmap for applying WAFFLE to other compatible .NET applications. A great starting point is the walkthrough of instrumenting Ssh.Net in the ``Minimal Working Example'' section.
+This repository contains source code, benchmarks and scripts to build and reproduce the key findings of our <a href="https://bastoica.github.io/files/papers/2023_eurosys_waffle.pdf" target="_blank">paper</a> [1]. It also serves as a roadmap for applying WAFFLE to other compatible .NET applications. A great starting point is the walkthrough of instrumenting Ssh.Net in the ``Minimal Working Example'' section.
 
 
 
@@ -337,6 +337,6 @@ This command, too, generates a `TestResults.wfl` file that captures crash inform
 
 ## References
 
-[1] "WAFFLE: Exposing Memory Ordering Bugs Efficiently with Active Delay Injection". Bogdan Alexandru Stoica, Shan Lu, Madan Musuvathi, and Suman Nath. EuroSys 2023 [pdf](https://bastoica.github.io/files/papers/2023_eurosys_waffle.pdf)
+[1] "WAFFLE: Exposing Memory Ordering Bugs Efficiently with Active Delay Injection". Bogdan Alexandru Stoica, Shan Lu, Madan Musuvathi, and Suman Nath. | EuroSys 2023 <a href="https://bastoica.github.io/files/papers/2023_eurosys_waffle.pdf" target="_blank">[pdf]</a>
 
 [2] "Efficient and Scalable Thread-Safety Violation Detection --- Finding thousands of concurrency bugs during testing". Guangpu Li, Shan Lu, Madan Musuvathi, Suman Nath, and Rohan Padhye. SOSP 2019
