@@ -1,0 +1,2 @@
+SessionTest_Connected_ServerAndClientDisconnectRace
+Expect_Regex_RacesWithDispose
